@@ -8,16 +8,26 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Interactive dashboard
 
-**a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual**
+**a horizontal bar chart with a dropdown menu**
+
+It displayed the top 10 OTUs found in that individual
+
 ![Alt text](image-1.png)
 
- ## horizontal bar chart 
+
 ![Alt text](image-2.png)
 
-**a bubble chart that displays each sample**
+
+**a bubble chart**
+
+It displayed each sample based on the size of the sample_values and the otu_ids
+
 ![Alt text](image-3.png)
 
-**Display the sample metadata, i.e., an individual's demographic information**
+**demographic information**
+
+Displayed the sample metadata, i.e., an individual's demographic information, of each key-value pair from the metadata JSON object 
+
 ![Alt text](image-4.png)
 
 
